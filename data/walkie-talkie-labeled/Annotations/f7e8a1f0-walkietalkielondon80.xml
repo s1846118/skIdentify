@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>f7e8a1f0-walkietalkielondon80.jpeg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>970</width>
+<height>605</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Walkie talkie</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>357</xmin>
+<ymin>22</ymin>
+<xmax>594</xmax>
+<ymax>467</ymax>
+</bndbox>
+</object>
+</annotation>
