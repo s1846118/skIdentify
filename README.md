@@ -4,48 +4,30 @@ Object detection algorithm for skyscrapers along a skyline! Long term goal of th
 ## Table of Contents
 
 - [About](#about)
-- [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
-[Provide a brief introduction to your project. Include its purpose and any relevant background information.]
-
-## Features
-
-[List the key features and functionalities of your project.]
-
-- Feature 1
-- Feature 2
-- ...
+We will be scraping images of famous landmarks and skiscrapers around London, labeling them, then training YOLOv5 to detect them. The long term goal is to add some form of tracker which can be implemented into some sort of mobile application to inform users about landmark information simply by pointing their camera!
 
 ## Getting Started
 
-[Provide instructions on how to get the project up and running on a local development environment. Include any prerequisites, installation steps, and configuration if necessary.]
+- TODO
 
 ### Prerequisites
 
-[List any software, libraries, or dependencies that users need to have installed before using your project.]
-
-### Installation
-
-[Provide step-by-step instructions on how to install and set up your project.]
+- Will add requirements.txt
 
 ## Usage
 
-[Provide examples or code snippets demonstrating how to use your project. Include any additional instructions or guidelines for users.]
+- TODO as project advances
 
 ## Contributing
 
-[Explain how others can contribute to your project. Include guidelines for submitting bug reports, feature requests, or pull requests.]
-
-## License
-
-[Specify the license under which your project is distributed. Include any additional licensing details or acknowledgments.]
+- Drop me a message or open an issue to get involved ...
 
 ## Contact
 
-[Provide contact information or links to relevant communication channels (e.g., email, Discord, Slack) for users to get in touch with you.]
+- adam.netxworld@gmail.com
